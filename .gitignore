@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+
+# Local config
+local.properties
+
+# Build
+/build/
+/app/build/
+**/build/
+
+# IDE
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Crash dump
+*.hprof
+
+# Log
+*.log
